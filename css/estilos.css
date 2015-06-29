@@ -1,7 +1,10 @@
 body 
 {
+
+	background: black;
 	border:1px solid black;
 	border-radius: 5px;
+	color: purple;
 	margin:  0 auto;
 	max-width:  1024px;
 
